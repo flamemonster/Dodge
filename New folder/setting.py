@@ -1,0 +1,16 @@
+admin = False
+score = 0
+health = 100
+enem_speed = 5
+enem_speed2 = 2
+coin = 0
+con = True
+rate = 5
+rate2 = 5
+maximum_health = 100
+high_score = 0
+pause = False
+damage = 5
+shop = False
+player_speed = 10
+pressed = 0
